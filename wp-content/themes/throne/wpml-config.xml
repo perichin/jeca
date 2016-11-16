@@ -1,0 +1,7 @@
+<wpml-config>
+  <admin-texts>
+    <key name="thr_settings">
+      <key name="footer_copyright"/>
+    </key>
+  </admin-texts>
+</wpml-config>

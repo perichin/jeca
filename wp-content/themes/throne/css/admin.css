@@ -1,0 +1,23 @@
+input.thr-radio{
+	width: 16px;
+	margin-left:0;
+}
+
+/* Welcome panel */
+
+.welcome-panel.thr-welcome-panel{
+	margin: 33px 20px 0 0;
+	padding-bottom: 30px;
+}
+
+.welcome-panel.thr-welcome-panel .welcome-panel-column,
+.welcome-panel.thr-welcome-panel .welcome-panel-column:first-child{
+	 max-width: 350px;
+  	margin-right: 40px;
+  	width: 25%;
+}
+
+.thr-customize-welcome {
+	margin-top: 24px;
+  	display: inline-block;
+}
